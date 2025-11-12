@@ -14,3 +14,13 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+Nama : Garuga Dewangga Putra Handikto  
+NPM  : 2406437615
+Kelas: PBP F
+Hobi : Nonton Film
+Jurusan : Ilmu Sistem Informasi Komputer
+
+MENJALANKAN DITERMINAL
+- python manage.py runserver 127.0.0.1:8000
+- flutter run
